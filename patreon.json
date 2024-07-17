@@ -7,7 +7,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": [
+      "users": [
         "Jordo"
       ]
     },
@@ -18,7 +18,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": [
+      "users": [
         "Jordo"
       ]
     },
@@ -29,7 +29,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": [
+      "users": [
         "Jordo"
       ]
     },
@@ -40,7 +40,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": [
+      "users": [
         "Jordo"
       ]
     },
@@ -51,7 +51,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": []
+      "users": []
     },
     {
       "name": "Admin",
@@ -60,7 +60,7 @@
       "permissions": [
         "admin"
       ],
-      "supporters": [
+      "users": [
         "Jordo"
       ]
     }
