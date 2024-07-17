@@ -51,9 +51,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": [
-        "Jordo"
-      ]
+      "supporters": []
     },
     {
       "name": "Admin",
