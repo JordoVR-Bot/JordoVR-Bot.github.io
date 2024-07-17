@@ -7,7 +7,9 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": []
+      "users": [
+        "Jordo"
+      ]
     },
     {
       "name": "VIP Supporter",
@@ -16,7 +18,9 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": []
+      "users": [
+        "Jordo"
+      ]
     },
     {
       "name": "Super Supporter",
@@ -25,7 +29,9 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": []
+      "users": [
+        "Jordo"
+      ]
     },
     {
       "name": "Extra Supporter",
@@ -52,7 +58,9 @@
       "permissions": [
         "admin"
       ],
-      "users": []
+      "users": [
+        "Jordo"
+      ]
     }
   ]
 }
