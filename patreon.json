@@ -29,7 +29,9 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": []
+      "supporters": [
+        "Jordo"
+      ]
     },
     {
       "name": "Extra Supporter",
