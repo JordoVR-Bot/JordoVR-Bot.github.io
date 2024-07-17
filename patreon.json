@@ -1,1 +1,64 @@
-{"roles":[{"name":"VIP+ Supporter","color":"15515459","order":0,"permissions":["supporter_board"],"supporters":["Jordo"]},{"name":"VIP Supporter","color":"10181046","order":10,"permissions":["supporter_board"],"supporters":["Jordo"]},{"name":"Super Supporter","color":"13264796","order":20,"permissions":["supporter_board"],"supporters":[]},{"name":"Extra Supporter","color":"15302240","order":30,"permissions":["supporter_board"],"supporters":[]},{"name":"Supporter","color":"15374667","order":40,"permissions":["supporter_board"],"supporters":[]},{"name":"Admin","color":"13579326","order":100,"permissions":["admin"],"supporters":["Jordo"]}]}
+{
+  "roles": [
+    {
+      "name": "VIP+ Supporter",
+      "color": "15515459",
+      "order": 0,
+      "permissions": [
+        "supporter_board"
+      ],
+      "supporters": [
+        "Jordo"
+      ]
+    },
+    {
+      "name": "VIP Supporter",
+      "color": "10181046",
+      "order": 10,
+      "permissions": [
+        "supporter_board"
+      ],
+      "supporters": [
+        "Jordo"
+      ]
+    },
+    {
+      "name": "Super Supporter",
+      "color": "13264796",
+      "order": 20,
+      "permissions": [
+        "supporter_board"
+      ],
+      "supporters": []
+    },
+    {
+      "name": "Extra Supporter",
+      "color": "15302240",
+      "order": 30,
+      "permissions": [
+        "supporter_board"
+      ],
+      "supporters": []
+    },
+    {
+      "name": "Supporter",
+      "color": "15374667",
+      "order": 40,
+      "permissions": [
+        "supporter_board"
+      ],
+      "supporters": []
+    },
+    {
+      "name": "Admin",
+      "color": "13579326",
+      "order": 100,
+      "permissions": [
+        "admin"
+      ],
+      "supporters": [
+        "Jordo"
+      ]
+    }
+  ]
+}
