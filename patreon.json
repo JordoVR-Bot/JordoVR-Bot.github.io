@@ -40,7 +40,9 @@
       "permissions": [
         "supporter_board"
       ],
-      "supporters": []
+      "supporters": [
+        "Jordo"
+      ]
     },
     {
       "name": "Supporter",
