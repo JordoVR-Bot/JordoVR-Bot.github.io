@@ -2,7 +2,7 @@
   "roles": [
     {
       "name": "VIP+ Supporter",
-      "color": "15515459",
+      "color": "ECBF43",
       "order": 0,
       "permissions": [
         "supporter_board",
@@ -15,7 +15,7 @@
     },
     {
       "name": "VIP Supporter",
-      "color": "10181046",
+      "color": "9B59B6",
       "order": 10,
       "permissions": [
         "supporter_board"
@@ -27,7 +27,7 @@
     },
     {
       "name": "Super Supporter",
-      "color": "13264796",
+      "color": "CA679C",
       "order": 20,
       "permissions": [
         "supporter_board"
@@ -38,7 +38,7 @@
     },
     {
       "name": "Extra Supporter",
-      "color": "15302240",
+      "color": "E97E60",
       "order": 30,
       "permissions": [
         "supporter_board"
@@ -47,7 +47,7 @@
     },
     {
       "name": "Supporter",
-      "color": "15374667",
+      "color": "EA994B",
       "order": 40,
       "permissions": [
         "supporter_board"
@@ -56,7 +56,7 @@
     },
     {
       "name": "Admin",
-      "color": "13579326",
+      "color": "CF343E",
       "order": 100,
       "permissions": [
         "admin"
