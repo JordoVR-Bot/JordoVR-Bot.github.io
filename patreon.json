@@ -9,7 +9,8 @@
         "test_permission"
       ],
       "users": [
-        "Jordo"
+        "Jordo",
+        "1"
       ]
     },
     {
@@ -20,7 +21,8 @@
         "supporter_board"
       ],
       "users": [
-        "Jordo"
+        "Jordo",
+        "1"
       ]
     },
     {
@@ -60,7 +62,8 @@
         "admin"
       ],
       "users": [
-        "Jordo"
+        "Jordo",
+        "1"
       ]
     }
   ]
