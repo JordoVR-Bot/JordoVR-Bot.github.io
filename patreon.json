@@ -5,7 +5,8 @@
       "color": "15515459",
       "order": 0,
       "permissions": [
-        "supporter_board"
+        "supporter_board",
+        "test_permission"
       ],
       "users": [
         "Jordo"
