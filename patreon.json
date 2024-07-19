@@ -8,10 +8,7 @@
         "supporter_board",
         "test_permission"
       ],
-      "users": [
-        "Jordo",
-        "1"
-      ]
+      "users": []
     },
     {
       "name": "VIP Supporter",
@@ -20,12 +17,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": [
-        "Jordo",
-        "1",
-        "MagicJaguar456",
-        "BraveCheetah202"
-      ]
+      "users": []
     },
     {
       "name": "Super Supporter",
@@ -34,29 +26,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": [
-        "Jordo",
-        "FierceShark333",
-        "CoolWolf007",
-        "SilentLion111",
-        "MightyStallion909",
-        "FierceStallion888",
-        "SilentDragon789",
-        "EagerShark007",
-        "MagicShark123",
-        "EagerCobra808",
-        "GentleShark808",
-        "KeenLion456",
-        "HappyRaven202",
-        "SmartPuma789",
-        "BrightLeopard909",
-        "GentleFalcon007",
-        "FiercePhoenix888",
-        "DaringEagle777",
-        "HeroicFalcon123",
-        "HappyFox555",
-        "EagerHawk202"
-      ]
+      "users": []
     },
     {
       "name": "Extra Supporter",
@@ -65,51 +35,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": [
-        "GentleJaguar505",
-        "SwiftBear909",
-        "SilentPhoenix222",
-        "FastFalcon007",
-        "JollyRaven888",
-        "SmartPhoenix777",
-        "GentleRaven222",
-        "MagicBear555",
-        "BrightPhoenix111",
-        "LuckyCheetah505",
-        "KeenRaven333",
-        "DaringLion888",
-        "SwiftLion202",
-        "DaringHawk333",
-        "MagicPuma303",
-        "CalmTiger808",
-        "FastEagle222",
-        "BraveLeopard505",
-        "CoolBear111",
-        "JollyRaven007",
-        "FastFalcon101",
-        "EagerCobra888",
-        "BrightTiger303",
-        "CoolHawk808",
-        "SwiftTiger888",
-        "KeenRaven909",
-        "CalmCobra101",
-        "DaringCheetah101",
-        "MagicPanther555",
-        "HeroicStallion456",
-        "FierceJaguar789",
-        "DaringJaguar456",
-        "BraveCheetah456",
-        "LuckyPuma123",
-        "LuckyBear333",
-        "FastHawk456",
-        "SwiftPhoenix789",
-        "MightyEagle444",
-        "DaringStallion666",
-        "MagicPanther777",
-        "DaringLeopard222",
-        "FastEagle303",
-        "JollyTiger808"
-      ]
+      "users": []
     },
     {
       "name": "Supporter",
@@ -118,66 +44,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": [
-        "BraveTiger007",
-        "BraveEagle909",
-        "FiercePuma404",
-        "GentleJaguar123",
-        "FastEagle505",
-        "DaringShark222",
-        "MagicCheetah303",
-        "GentleBear444",
-        "SilentPuma007",
-        "SilentCobra888",
-        "FastWolf555",
-        "LuckyLion909",
-        "GentleDragon444",
-        "FierceCobra606",
-        "HappyCheetah808",
-        "JollyJaguar444",
-        "JollyTiger666",
-        "SilentWolf202",
-        "EagerStallion909",
-        "MightyJaguar404",
-        "FastPhoenix666",
-        "LuckyRaven444",
-        "HeroicStallion202",
-        "GentlePhoenix808",
-        "LuckyPanther444",
-        "SmartTiger222",
-        "SwiftStallion555",
-        "HeroicStallion777",
-        "SwiftCobra555",
-        "SilentJaguar007",
-        "KeenLeopard222",
-        "MightyPuma606",
-        "MagicJaguar444",
-        "SilentPhoenix888",
-        "HappyHawk444",
-        "GentleFox606",
-        "HappyRaven333",
-        "DaringShark456",
-        "KeenCheetah303",
-        "FierceHawk123",
-        "DaringCobra777",
-        "CoolStallion888",
-        "JollyLion202",
-        "JollyLion606",
-        "MightyEagle202",
-        "FierceFox101",
-        "SilentEagle909",
-        "SmartLeopard606",
-        "SilentWolf888",
-        "MagicTiger101",
-        "GentleLeopard666",
-        "HappyHawk505",
-        "DaringPhoenix555",
-        "FastFalcon101",
-        "FiercePhoenix777",
-        "KeenFalcon456",
-        "FierceEagle202",
-        "HeroicLeopard888"
-      ]
+      "users": []
     },
     {
       "name": "Admin",
