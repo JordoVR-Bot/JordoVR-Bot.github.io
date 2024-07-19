@@ -17,7 +17,9 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": []
+      "users": [
+        "MightyLeopard777"
+      ]
     },
     {
       "name": "Super Supporter",
@@ -26,7 +28,14 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": []
+      "users": [
+        "CalmTiger505",
+        "BraveTiger202",
+        "BrightHawk404",
+        "LuckyCheetah333",
+        "EagerPanther202",
+        "LuckyPhoenix303"
+      ]
     },
     {
       "name": "Extra Supporter",
@@ -35,7 +44,25 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": []
+      "users": [
+        "SilentLion444",
+        "CalmLeopard606",
+        "SwiftRaven444",
+        "MightyBear007",
+        "HeroicLion909",
+        "SwiftCheetah456",
+        "MightyLeopard123",
+        "DaringCheetah111",
+        "JollyStallion808",
+        "HeroicStallion444",
+        "FierceEagle101",
+        "MagicWolf333",
+        "SwiftEagle404",
+        "CoolFalcon202",
+        "CoolLeopard202",
+        "HeroicFox101",
+        "LuckyPuma404"
+      ]
     },
     {
       "name": "Supporter",
@@ -44,7 +71,44 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": []
+      "users": [
+        "KeenHawk333",
+        "CalmCheetah007",
+        "EagerPhoenix222",
+        "DaringPhoenix111",
+        "SilentTiger909",
+        "HeroicWolf909",
+        "SilentBear456",
+        "HeroicRaven789",
+        "GentlePhoenix333",
+        "SmartHawk222",
+        "HeroicTiger202",
+        "DaringFox909",
+        "KeenJaguar444",
+        "MagicLeopard808",
+        "KeenWolf111",
+        "JollyEagle777",
+        "FastHawk404",
+        "SmartEagle789",
+        "SilentHawk789",
+        "DaringJaguar444",
+        "MagicWolf101",
+        "BraveFox101",
+        "SmartRaven202",
+        "HappyDragon555",
+        "SwiftFox555",
+        "GentleRaven909",
+        "MagicJaguar404",
+        "FastFox777",
+        "CalmLion444",
+        "FierceShark202",
+        "SwiftJaguar404",
+        "EagerCobra333",
+        "SwiftLion202",
+        "MightyPanther202",
+        "SwiftJaguar808",
+        "SwiftJaguar555"
+      ]
     },
     {
       "name": "Admin",
