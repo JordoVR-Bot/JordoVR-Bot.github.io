@@ -8,7 +8,9 @@
         "supporter_board",
         "test_permission"
       ],
-      "users": []
+      "users": [
+        "Jordo"
+      ]
     },
     {
       "name": "VIP Supporter",
