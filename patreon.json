@@ -6,7 +6,9 @@
       "order": 0,
       "permissions": [
         "supporter_board",
-        "test_permission"
+        "trails_vip",
+        "trails_super",
+        "trails_extra"
       ],
       "users": [
         "Jordo"
@@ -17,7 +19,10 @@
       "color": "9B59B6",
       "order": 10,
       "permissions": [
-        "supporter_board"
+        "supporter_board",
+        "trails_vip",
+        "trails_super",
+        "trails_extra"
       ],
       "users": [
         "CalmPanther101"
@@ -28,7 +33,9 @@
       "color": "CA679C",
       "order": 20,
       "permissions": [
-        "supporter_board"
+        "supporter_board",
+        "trails_super",
+        "trails_extra"
       ],
       "users": [
         "LuckyFox888"
@@ -39,7 +46,8 @@
       "color": "E97E60",
       "order": 30,
       "permissions": [
-        "supporter_board"
+        "supporter_board",
+        "trails_extra"
       ],
       "users": [
         "SmartJaguar444",
@@ -80,6 +88,18 @@
         "LuckyLion505",
         "LuckyCheetah606",
         "MightyCobra505"
+      ]
+    },
+    {
+      "name": "@everyone",
+      "color": "0",
+      "order": 50,
+      "permissions": [
+        "vrchat_linked"
+      ],
+      "users": [
+        "Jordo",
+        "1"
       ]
     },
     {
