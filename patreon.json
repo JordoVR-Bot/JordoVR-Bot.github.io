@@ -107,7 +107,8 @@
       "order": 100,
       "permissions": [
         "admin",
-        "no_analytics"
+        "no_analytics",
+        "debug"
       ],
       "users": [
         "Jordo",
