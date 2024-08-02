@@ -106,7 +106,8 @@
       "color": "CF343E",
       "order": 100,
       "permissions": [
-        "admin"
+        "admin",
+        "no_analytics"
       ],
       "users": [
         "Jordo",
