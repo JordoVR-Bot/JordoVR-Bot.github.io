@@ -117,7 +117,5 @@
       ]
     }
   ],
-  "defaultPermissions": [
-    "vrchat_linked"
-  ]
+  "defaultPermissions": ""
 }
