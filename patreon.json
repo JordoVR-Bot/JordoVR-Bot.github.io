@@ -97,9 +97,9 @@
         "vrchat_linked"
       ],
       "users": [
-        "Jordo",
         "1",
-        "CloCloClover"
+        "CloCloClover",
+        "Jordo"
       ]
     },
     {
@@ -112,8 +112,8 @@
         "debug"
       ],
       "users": [
-        "Jordo",
-        "1"
+        "1",
+        "Jordo"
       ]
     }
   ]
