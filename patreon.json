@@ -23,7 +23,6 @@
         "trails_extra"
       ],
       "users": [
-        "Jordo",
         "CalmPanther101"
       ]
     },
@@ -109,7 +108,9 @@
       "permissions": [
         "admin",
         "no_analytics",
-        "debug"
+        "trails_extra",
+        "trails_super",
+        "trails_vip"
       ],
       "users": [
         "1",
@@ -117,5 +118,5 @@
       ]
     }
   ],
-  "defaultPermissions": ""
+  "defaultPermissions": []
 }
