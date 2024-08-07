@@ -118,5 +118,7 @@
       ]
     }
   ],
-  "defaultPermissions": []
+  "defaultPermissions": [
+    "no_analytics"
+  ]
 }
