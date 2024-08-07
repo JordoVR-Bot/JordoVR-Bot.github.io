@@ -1,6 +1,22 @@
 {
   "roles": [
     {
+      "name": "Admin",
+      "color": "CF343E",
+      "order": -10,
+      "permissions": [
+        "admin",
+        "no_analytics",
+        "trails_extra",
+        "trails_super",
+        "trails_vip"
+      ],
+      "users": [
+        "1",
+        "Jordo"
+      ]
+    },
+    {
       "name": "VIP+ Supporter",
       "color": "ECBF43",
       "order": 0,
@@ -98,22 +114,6 @@
       "users": [
         "1",
         "CloCloClover",
-        "Jordo"
-      ]
-    },
-    {
-      "name": "Admin",
-      "color": "CF343E",
-      "order": 100,
-      "permissions": [
-        "admin",
-        "no_analytics",
-        "trails_extra",
-        "trails_super",
-        "trails_vip"
-      ],
-      "users": [
-        "1",
         "Jordo"
       ]
     }
