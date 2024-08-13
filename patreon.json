@@ -106,7 +106,7 @@
     },
     {
       "name": "VRChat Linked",
-      "color": "FFFFFF",
+      "color": "5C65B9",
       "order": 50,
       "permissions": [
         "vrchat_linked"
