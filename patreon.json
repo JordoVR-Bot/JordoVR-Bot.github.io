@@ -119,8 +119,5 @@
       ]
     }
   ],
-  "defaultPermissions": [
-    "no_analytics",
-    "trails_super"
-  ]
+  "defaultPermissions": []
 }
