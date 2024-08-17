@@ -120,7 +120,6 @@
     }
   ],
   "defaultPermissions": [
-    "no_analytics",
-    "trails_super"
+    "no_analytics"
   ]
 }
