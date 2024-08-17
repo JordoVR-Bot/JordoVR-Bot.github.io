@@ -119,5 +119,10 @@
       ]
     }
   ],
-  "defaultPermissions": []
+  "defaultPermissions": [
+    "trails_vip",
+    "trails_super",
+    "trails_extra",
+    "vrchat_linked"
+  ]
 }
