@@ -121,5 +121,8 @@
       ]
     }
   ],
-  "defaultPermissions": []
+  "defaultPermissions": [
+    "vrchat_linked",
+    "trails_extra"
+  ]
 }
