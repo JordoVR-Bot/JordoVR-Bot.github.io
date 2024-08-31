@@ -122,9 +122,8 @@
     }
   ],
   "defaultPermissions": [
-    "vrchat_linked",
-    "trails_extra",
     "trails_super",
+    "trails_extra",
     "trails_vip"
   ]
 }
