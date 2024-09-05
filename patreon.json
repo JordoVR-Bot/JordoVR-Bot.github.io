@@ -121,9 +121,5 @@
       ]
     }
   ],
-  "defaultPermissions": [
-    "trails_super",
-    "trails_extra",
-    "trails_vip"
-  ]
+  "defaultPermissions": []
 }
