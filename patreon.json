@@ -9,7 +9,8 @@
         "no_analytics",
         "trails_extra",
         "trails_super",
-        "trails_vip;timebreach_commentaries"
+        "trails_vip",
+        "timebreach_commentaries"
       ],
       "users": [
         "1",
@@ -24,7 +25,8 @@
         "supporter_board",
         "trails_vip",
         "trails_super",
-        "trails_extra;timebreach_commentaries"
+        "trails_extra",
+        "timebreach_commentaries"
       ],
       "users": []
     },
@@ -36,7 +38,8 @@
         "supporter_board",
         "trails_vip",
         "trails_super",
-        "trails_extra;timebreach_commentaries"
+        "trails_extra",
+        "timebreach_commentaries"
       ],
       "users": [
         "CalmPanther101"
@@ -49,7 +52,8 @@
       "permissions": [
         "supporter_board",
         "trails_super",
-        "trails_extra;timebreach_commentaries"
+        "trails_extra",
+        "timebreach_commentaries"
       ],
       "users": [
         "LuckyFox888"
@@ -61,7 +65,8 @@
       "order": 30,
       "permissions": [
         "supporter_board",
-        "trails_extra;timebreach_commentaries"
+        "trails_extra",
+        "timebreach_commentaries"
       ],
       "users": [
         "SmartJaguar444",
