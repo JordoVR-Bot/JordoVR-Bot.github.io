@@ -41,9 +41,7 @@
         "trails_extra",
         "timebreach_commentaries"
       ],
-      "users": [
-        "CalmPanther101"
-      ]
+      "users": []
     },
     {
       "name": "Super Supporter",
@@ -55,9 +53,7 @@
         "trails_extra",
         "timebreach_commentaries"
       ],
-      "users": [
-        "LuckyFox888"
-      ]
+      "users": []
     },
     {
       "name": "Extra Supporter",
@@ -68,22 +64,7 @@
         "trails_extra",
         "timebreach_commentaries"
       ],
-      "users": [
-        "SmartJaguar444",
-        "KeenPhoenix444",
-        "LuckyRaven555",
-        "BravePuma666",
-        "JollyWolf222",
-        "SilentLeopard456",
-        "FastPanther888",
-        "SilentRaven909",
-        "JollyFox505",
-        "FastEagle456",
-        "EagerFalcon606",
-        "BrightFalcon404",
-        "LuckyLion101",
-        "FastStallion444"
-      ]
+      "users": []
     },
     {
       "name": "Supporter",
@@ -92,22 +73,7 @@
       "permissions": [
         "supporter_board"
       ],
-      "users": [
-        "CoolFox777",
-        "SwiftPhoenix444",
-        "SwiftCobra222",
-        "MagicTiger888",
-        "FierceRaven456",
-        "SmartPhoenix555",
-        "BraveCobra404",
-        "FierceLion606",
-        "CoolTiger456",
-        "FiercePuma303",
-        "KeenDragon303",
-        "LuckyLion505",
-        "LuckyCheetah606",
-        "MightyCobra505"
-      ]
+      "users": []
     },
     {
       "name": "VRChat Linked",
@@ -125,7 +91,5 @@
       ]
     }
   ],
-  "defaultPermissions": [
-    "timebreach_commentaries"
-  ]
+  "defaultPermissions": []
 }
