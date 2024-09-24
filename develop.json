@@ -1,0 +1,92 @@
+{
+  "roles": [
+    {
+      "name": "Admin",
+      "color": "CF343E",
+      "order": -10,
+      "permissions": [
+        "admin",
+        "no_analytics",
+        "trails_extra",
+        "trails_super",
+        "trails_vip",
+        "timebreach_commentaries"
+      ],
+      "users": [
+        "Jordo"
+      ]
+    },
+    {
+      "name": "VIP+ Supporter",
+      "color": "ECBF43",
+      "order": 0,
+      "permissions": [
+        "supporter_board",
+        "trails_vip",
+        "trails_super",
+        "trails_extra",
+        "timebreach_commentaries"
+      ],
+      "users": []
+    },
+    {
+      "name": "VIP Supporter",
+      "color": "9B59B6",
+      "order": 10,
+      "permissions": [
+        "supporter_board",
+        "trails_vip",
+        "trails_super",
+        "trails_extra",
+        "timebreach_commentaries"
+      ],
+      "users": []
+    },
+    {
+      "name": "Super Supporter",
+      "color": "CA679C",
+      "order": 20,
+      "permissions": [
+        "supporter_board",
+        "trails_super",
+        "trails_extra",
+        "timebreach_commentaries"
+      ],
+      "users": []
+    },
+    {
+      "name": "Extra Supporter",
+      "color": "E97E60",
+      "order": 30,
+      "permissions": [
+        "supporter_board",
+        "trails_extra",
+        "timebreach_commentaries"
+      ],
+      "users": []
+    },
+    {
+      "name": "Supporter",
+      "color": "EA994B",
+      "order": 40,
+      "permissions": [
+        "supporter_board"
+      ],
+      "users": []
+    },
+    {
+      "name": "VRChat Linked",
+      "color": "5C65B9",
+      "order": 50,
+      "permissions": [
+        "vrchat_linked"
+      ],
+      "users": [
+        "Jordo"
+      ]
+    }
+  ],
+  "defaultPermissions": [
+    "no_analytics"
+  ]
+}
