@@ -13,8 +13,8 @@
         "timebreach_commentaries"
       ],
       "users": [
-        "1",
-        "Jordo"
+        "Jordo",
+        "1"
       ]
     },
     {
@@ -28,9 +28,7 @@
         "trails_extra",
         "timebreach_commentaries"
       ],
-      "users": [
-        "Jordo"
-      ]
+      "users": []
     },
     {
       "name": "VIP Supporter",
@@ -85,11 +83,11 @@
         "vrchat_linked"
       ],
       "users": [
-        "1",
         "CloCloClover",
+        "Jordo",
+        "1",
         "Seoul",
-        "Sphyxia",
-        "Jordo"
+        "Sphyxia"
       ]
     }
   ],
