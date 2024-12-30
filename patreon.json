@@ -20,6 +20,22 @@
       ]
     },
     {
+      "name": "Contributor",
+      "color": "0",
+      "order": -5,
+      "permissions": [
+        "trails_vip",
+        "trails_super",
+        "trails_extra",
+        "timebreach_commentaries",
+        "trashcompactor_extras"
+      ],
+      "users": [
+        "Chim-Cham",
+        "PandaTime__"
+      ]
+    },
+    {
       "name": "VIP+ Supporter",
       "color": "ECBF43",
       "order": 0,
