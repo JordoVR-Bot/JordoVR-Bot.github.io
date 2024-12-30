@@ -75,7 +75,8 @@
       "permissions": [
         "supporter_board",
         "trails_extra",
-        "timebreach_commentaries"
+        "timebreach_commentaries",
+        "trashcompactor_extras"
       ],
       "users": [
         "FadeuUnknown",
