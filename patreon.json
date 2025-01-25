@@ -21,7 +21,7 @@
     },
     {
       "name": "Contributor",
-      "color": "0",
+      "color": "FFFFFF",
       "order": -5,
       "permissions": [
         "trails_vip",
