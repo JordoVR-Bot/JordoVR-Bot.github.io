@@ -2891,5 +2891,6 @@
       ]
     }
   ],
-  "defaultPermissions": []
+  "defaultPermissions": [],
+  "notifications": []
 }
