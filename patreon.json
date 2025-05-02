@@ -2912,7 +2912,7 @@
       "id": 2,
       "prefabName": "popuphappy",
       "headerText": "",
-      "bodyText": "Welcome to Trash Compactor 1.3, please enjoy 2 new stages & 4 new modifiers!",
+      "bodyText": "Welcome to the latest <color=#FFB73B><b>Trash Compactor update!</b></color><br>Please enjoy <color=#FFB73B><b>2 new stages</b></color> & <color=#FFB73B><b>4 new modifiers!</b></color>",
       "requiredPermissions": [
         "admin"
       ],
