@@ -2909,14 +2909,12 @@
   "defaultPermissions": [],
   "notifications": [
     {
-      "id": 2,
+      "id": 3,
       "prefabName": "popuphappy",
       "headerText": "",
       "bodyText": "Welcome to the latest update!<br>Please enjoy <color=#FFB73B><b>2</b> new stages</color> & <color=#FFB73B><b>4</b> new modifiers!</color>",
-      "requiredPermissions": [
-        "admin"
-      ],
-      "worldId": "",
+      "requiredPermissions": [],
+      "worldId": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
       "maximumVersion": 999,
       "duration": 15,
       "persist": "once"
