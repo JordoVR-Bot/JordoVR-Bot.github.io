@@ -2907,17 +2907,5 @@
     }
   ],
   "defaultPermissions": [],
-  "notifications": [
-    {
-      "id": 1,
-      "prefabName": "popuphappy",
-      "headerText": "",
-      "bodyText": "Thank you for helping me test this pre-release version!",
-      "requiredPermissions": [],
-      "worldId": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
-      "maximumVersion": 999,
-      "duration": 15,
-      "persist": "once"
-    }
-  ]
+  "notifications": []
 }
