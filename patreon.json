@@ -2912,7 +2912,7 @@
       "id": 2,
       "prefabName": "popuphappy",
       "headerText": "",
-      "bodyText": "Welcome to the latest update!<br>Please enjoy <color=#FFB73B><b>2 new stages</b></color> & <color=#FFB73B><b>4 new modifiers!</b></color>",
+      "bodyText": "Welcome to the latest update!<br>Please enjoy <color=#FFB73B><b>2</b> new stages</color> & <color=#FFB73B><b>4</b> new modifiers!</color>",
       "requiredPermissions": [
         "admin"
       ],
