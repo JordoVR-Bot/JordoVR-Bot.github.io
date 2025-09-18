@@ -5416,5 +5416,19 @@
     }
   ],
   "defaultPermissions": [],
-  "notifications": []
+  "notifications": [
+    {
+      "id": 4,
+      "prefabName": "Popup",
+      "headerText": "",
+      "bodyText": "A new version of Trash Compactor is out! Create a new instance to play some brand new stages & modifers!",
+      "requiredPermissions": [
+        "admin"
+      ],
+      "worldId": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
+      "maximumVersion": 139,
+      "duration": 10,
+      "persist": "never"
+    }
+  ]
 }
