@@ -5411,7 +5411,9 @@
         "ƧЄƦЄƖƛƓЄM",
         "《 ʍօօռʟɨɢɦȶ 》",
         "lucifology",
-        "lonefox46"
+        "lonefox46",
+        "Prodsman",
+        "Lexiam"
       ]
     }
   ],
@@ -5421,7 +5423,7 @@
       "id": 4,
       "prefabName": "Popup",
       "headerText": "",
-      "bodyText": "A new version of Trash Compactor is out! Create a new instance to play some brand new stages & modifers!",
+      "bodyText": "A new version of <color=#ECBF43>Trash Compactor</color> is out!<br>Create a new instance to play some brand new <color=#ECBF43>stages</color> & <color=#ECBF43>modifer</color>!",
       "requiredPermissions": [
         "admin"
       ],
