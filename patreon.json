@@ -51,7 +51,7 @@
       ],
       "users": [
         "orels1",
-        "~_AUSTIN_~",
+        "~_AUSTIN_202_~",
         "Cirrus Shark"
       ]
     },
@@ -101,7 +101,7 @@
         "Tactical_Paper7",
         "Experiment 1412",
         "Wrath of Vajra",
-        "~_AUSTIN_~",
+        "~_AUSTIN_202_~",
         "Jac_Is_Cool",
         "Miní Bagel",
         "HillyBeans",
@@ -2917,7 +2917,7 @@
         "EnderGal170",
         "Kato․_․18",
         "hoenibee",
-        "~_AUSTIN_~",
+        "~_AUSTIN_202_~",
         "๑ＲｏｔｔｅｎＡｎｇｅｌ๑",
         "Hisoneandonlyyy",
         "UniformPrawn96",
@@ -5421,7 +5421,7 @@
   "notifications": [
     {
       "id": 4,
-      "prefabName": "Popup",
+      "prefabName": "popup",
       "headerText": "",
       "bodyText": "A new version of <color=#ECBF43>Trash Compactor</color> is out!<br>Create a new instance to play some brand new <color=#ECBF43>stages</color> & <color=#ECBF43>modifer</color>!",
       "requiredPermissions": [
