@@ -5819,17 +5819,5 @@
     }
   ],
   "defaultPermissions": [],
-  "notifications": [
-    {
-      "id": 7,
-      "prefabName": "popuphappy",
-      "headerText": "",
-      "bodyText": "<color=#ECBF43>New Update!</color> 2 stages, 1 modifier, new props & fire rate selection</color>!<br><size=15><br></size><size=27>Join the group & discord to get notified for the <color=#ECBF43>new world next month!</color></size>",
-      "requiredPermissions": [],
-      "worldId": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
-      "maximumVersion": 149,
-      "duration": 15,
-      "persist": "once"
-    }
-  ]
+  "notifications": []
 }
