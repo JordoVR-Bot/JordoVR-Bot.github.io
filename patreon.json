@@ -5831,5 +5831,19 @@
     }
   ],
   "defaultPermissions": [],
-  "notifications": []
+  "notifications": [
+    {
+      "id": 8,
+      "prefabName": "popuphappy",
+      "headerText": "",
+      "bodyText": "The bug with the <color=#FFAA00>door being stuck closed</color> after joining mid-game is <color=#FFAA00>fixed</color>! Enjoy!",
+      "requiredPermissions": [
+        "admin"
+      ],
+      "worldId": "wrld_06c991da-951b-4ca5-b7d2-e3f5a9839e28",
+      "maximumVersion": 999,
+      "duration": 0,
+      "persist": "once"
+    }
+  ]
 }
