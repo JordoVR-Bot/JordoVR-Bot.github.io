@@ -5860,5 +5860,19 @@
     }
   ],
   "defaultPermissions": [],
-  "notifications": []
+  "notifications": [
+    {
+      "id": 10,
+      "prefabName": "popup",
+      "headerText": "",
+      "bodyText": "A new version of the world is available, please create a new instance!",
+      "requiredPermissions": [
+        "admin"
+      ],
+      "worldId": "wrld_06c991da-951b-4ca5-b7d2-e3f5a9839e28",
+      "maximumVersion": 105,
+      "duration": 10,
+      "persist": "always"
+    }
+  ]
 }
