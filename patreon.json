@@ -5956,7 +5956,7 @@
       "bodyText": "A <color=#FFAA00>new version</color> of the world is available, please <color=#FFAA00>create a new instance</color>!",
       "requiredPermissions": [],
       "worldId": "wrld_06c991da-951b-4ca5-b7d2-e3f5a9839e28",
-      "maximumVersion": 105,
+      "maximumVersion": 118,
       "duration": 10,
       "persist": "always"
     }
