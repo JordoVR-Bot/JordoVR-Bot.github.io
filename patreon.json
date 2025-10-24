@@ -11,7 +11,8 @@
         "trails_super",
         "trails_vip",
         "timebreach_commentaries",
-        "trashcompactor_extras"
+        "trashcompactor_extras",
+        "outrun_extras"
       ],
       "users": [
         "Jordo",
@@ -25,11 +26,12 @@
       "color": "FFFFFF",
       "order": -5,
       "permissions": [
-        "trails_vip",
-        "trails_super",
         "trails_extra",
+        "trails_super",
+        "trails_vip",
         "timebreach_commentaries",
-        "trashcompactor_extras"
+        "trashcompactor_extras",
+        "outrun_extras"
       ],
       "users": [
         "Chim-Cham",
@@ -42,11 +44,12 @@
       "order": 0,
       "permissions": [
         "supporter_board",
-        "trails_vip",
-        "trails_super",
         "trails_extra",
+        "trails_super",
+        "trails_vip",
         "timebreach_commentaries",
-        "trashcompactor_extras"
+        "trashcompactor_extras",
+        "outrun_extras"
       ],
       "users": [
         "orels1",
@@ -60,11 +63,12 @@
       "order": 10,
       "permissions": [
         "supporter_board",
-        "trails_vip",
-        "trails_super",
         "trails_extra",
+        "trails_super",
+        "trails_vip",
         "timebreach_commentaries",
-        "trashcompactor_extras"
+        "trashcompactor_extras",
+        "outrun_extras"
       ],
       "users": [
         "Mimi2001",
@@ -80,10 +84,11 @@
       "order": 20,
       "permissions": [
         "supporter_board",
-        "trails_super",
         "trails_extra",
+        "trails_super",
         "timebreach_commentaries",
-        "trashcompactor_extras"
+        "trashcompactor_extras",
+        "outrun_extras"
       ],
       "users": [
         "RedB3ast1227",
@@ -157,7 +162,8 @@
         "supporter_board",
         "trails_extra",
         "timebreach_commentaries",
-        "trashcompactor_extras"
+        "trashcompactor_extras",
+        "outrun_extras"
       ],
       "users": [
         "Bidul127",
